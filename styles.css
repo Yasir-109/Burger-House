@@ -1,0 +1,76 @@
+.Top,
+nav {
+    background-image: url("food.jpg");
+    background-repeat: repeat;
+}
+
+nav a {
+    padding-left: 50px;
+    font-family: 'Abel', sans-serif;
+    font-weight: 600;
+}
+
+.sub-heading {
+    border: 2px dashed;
+    display: inline-block;
+    font-family: 'Abel', sans-serif;
+}
+
+.Hero h1,
+h3 {
+    font-family: 'Ultra', serif;
+    text-shadow: 2px 2px white;
+}
+
+.Hero h1 {
+    font-size: 4.5rem !important;
+    margin: 0;
+}
+
+h3 {
+    font-family: 'Ultra', serif;
+    font-size: 3.5rem !important;
+}
+
+h4 {
+    font-family: 'Abel', sans-serif;
+    font-weight: 600;
+    font-size: 2rem !important;
+}
+
+.Middle-1 {
+    padding-top: 7%;
+    padding-bottom: 5%;
+}
+
+.Middle-1 #pic1 {
+    margin-bottom: 1.8%;
+}
+
+.Tour {
+    overflow: hidden;
+    text-align: center;
+}
+
+.Tour span {
+    align-content: center;
+    text-align: center;
+    font-family: 'Abel', sans-serif;
+    font-weight: 700;
+    font-size: 1.5rem !important;
+    padding: 1%;
+    background-color: goldenrod;
+    display: inline-block;
+    margin: 10px 10px 10px 0;
+}
+
+.Menu-Intro {
+    text-align: center;
+    margin: 3% 15%;
+}
+
+.Middle-2 button {
+    border-radius: 0;
+    font-size: 1.25rem;
+    font-family: 'Ultra', serif;
+}
